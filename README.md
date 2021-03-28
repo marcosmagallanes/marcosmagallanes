@@ -1,8 +1,11 @@
-# **Hello, I’m _Marcos Magallanes_ @marcosmagallanes** 
+# **Hello, I’m _Marcos Magallanes_**
+@marcosmagallanes
 
 
 ## **I’m interested in:**
-  - cryptocurrency, anatomy/biology, psychology, outdoors and rock climbing.
+  - cryptocurrency
+  - anatomy/biology and psychology
+  - outdoors and rock climbing.
 ## **I’m currently learning:**
   - an HTML/CSS/JS stack.
 ## **I’m looking to collaborate on:**
