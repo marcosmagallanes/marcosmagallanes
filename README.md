@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @marcosmagallanes
-- 👀 I’m interested in cryptocurrency, anatomy/biology, psychology.
-- 🌱 I’m currently learning: an HTML/CSS/JS stack.
-- 💞️ I’m looking to collaborate on: cryptocurrency.
+-  Hi, I’m Marcos Magallanes
+-  I’m interested in cryptocurrency, anatomy/biology, psychology, outdoors and rock climbing.
+-  I’m currently learning: an HTML/CSS/JS stack.
+-  I’m looking to collaborate on: cryptocurrency.
 - 📫 How to reach me: marcos.m.magallanes@gmail.com
 
 <!---
