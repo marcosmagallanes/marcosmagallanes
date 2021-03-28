@@ -1,15 +1,15 @@
-*Hello, I’m _Marcos Magallanes_.*
+#**Hello, I’m _Marcos Magallanes_ @marcosmagallanes** 
 
 
-*I’m interested in:*
+##**I’m interested in:**
   - cryptocurrency, anatomy/biology, psychology, outdoors and rock climbing.
-*I’m currently learning:*
+##**I’m currently learning:**
   - an HTML/CSS/JS stack.
-*I’m looking to collaborate on:*
+##**I’m looking to collaborate on:**
   - cryptocurrency projects.
 
 
-*How to reach me:*
+#**How to reach me:**
   - marcos.m.magallanes@gmail.com
 
 <!---
